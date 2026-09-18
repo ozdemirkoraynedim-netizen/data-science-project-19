@@ -11,7 +11,7 @@ def generate_magic_power_scores(n):
 
 # Açıklama: Normal dağılım skoru al, Z-score ile standartlaştır.
 # Input: [70, 75, 80]
-# Output: [-1.0, 0.0, 1.0]
+# Output: [-1.22, 0.0, 1.22]
 def standardize_scores(scores):
     pass
 
